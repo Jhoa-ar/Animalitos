@@ -1,0 +1,25 @@
+*{ 
+    margin: 0px ;
+    padding: 0px ;
+    
+}
+body{
+    background-color: rgb(203, 191, 206);
+    color: rgba(18, 48, 48, 0.692);
+}
+h1{
+    text-align: center;
+    padding: 10px ;
+}
+img{
+    width: 30%;
+    height: auto;
+    align-content: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+    
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
